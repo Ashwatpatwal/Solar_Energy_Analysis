@@ -82,7 +82,6 @@ The dashboard delivers an interactive view into solar energy generation, perform
 
 ### Dashboard Screenshots
 
-*(Add screenshots here — see `dashboard/` folder)*
 
 | | |
 |---|---|
